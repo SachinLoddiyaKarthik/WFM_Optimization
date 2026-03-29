@@ -1,5 +1,6 @@
-pandas
-openpyxl
-streamlit
-plotly
-
+# Pinned for Streamlit Community Cloud: old unpinned streamlit + Altair 6 breaks
+# (ModuleNotFoundError: altair.vegalite.v4). Use Streamlit >=1.40 with current Altair.
+streamlit>=1.40.0,<2
+pandas>=2.0.0
+openpyxl>=3.1.0
+plotly>=5.18.0

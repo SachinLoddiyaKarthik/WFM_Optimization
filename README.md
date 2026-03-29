@@ -55,7 +55,7 @@ python wfm_sla_alert_automation.py --file WFM_dashboard_input.xlsx
 
 ### Deploy to Streamlit Community Cloud
 
-1. Push this folder to a GitHub repo.
+1. Push this folder to a GitHub repo (`requirements.txt` pins **Streamlit ≥1.40** so installs work with current **Altair**; `runtime.txt` requests **Python 3.12**).
 2. Go to [streamlit.io/cloud](https://streamlit.io/cloud) and create a new app.
 3. Main file: `app.py`.
 4. Share the public URL as an optional bonus link in your submission email.
