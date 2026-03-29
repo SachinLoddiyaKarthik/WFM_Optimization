@@ -1,0 +1,22 @@
+# OS / editor
+.DS_Store
+.Rhistory
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+.env
+.env.*
+
+# Excel lock files
+~$*.xlsx
+~$*.xls
+
+# Assignment prompt (keep local only — do not publish)
+WFM_AI_Optimization_Analyst_Take-Home_Assignment.docx
+
+# Optional: uncomment if you don’t want generated examples in git
+# wfm_risk_flags_*.csv

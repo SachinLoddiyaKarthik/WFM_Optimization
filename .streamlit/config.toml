@@ -1,0 +1,10 @@
+# Applied locally and on Streamlit Community Cloud.
+# Tune primaryColor if you want a different accent.
+
+[theme]
+base = "dark"
+primaryColor = "#2dd4bf"
+backgroundColor = "#0c0f14"
+secondaryBackgroundColor = "#161b22"
+textColor = "#f0f3f6"
+font = "sans serif"

@@ -1,0 +1,14 @@
+date,hour,volume,avg_handle_time_min,required_staff,scheduled_staff,actual_staff,sla_percent,staffing_gap,coverage_ratio,understaffed,sla_risk,dow,flag_sla_risk,flag_understaffed,flag_critical_gap,flag_low_coverage,flag_high_volume,risk_score,severity
+2026-02-28,0,80,10.87,14,9,11,87.5,3,0.7857142857142857,True,False,Sat,False,True,True,True,False,3,CRITICAL
+2026-02-28,1,98,8.44,13,11,11,83.9,2,0.8461538461538461,True,True,Sat,True,True,False,True,False,3,CRITICAL
+2026-02-28,4,112,8.05,15,12,14,95.0,1,0.9333333333333333,True,False,Sat,False,True,False,False,False,1,LOW
+2026-02-28,5,138,7.12,16,15,15,94.2,1,0.9375,True,False,Sat,False,True,False,False,True,1,LOW
+2026-02-28,8,106,8.03,14,7,8,77.9,6,0.5714285714285714,True,True,Sat,True,True,True,True,False,4,CRITICAL
+2026-02-28,9,123,7.67,15,15,13,88.7,2,0.8666666666666667,True,False,Sat,False,True,False,True,True,2,HIGH
+2026-02-28,11,79,9.68,12,9,6,84.9,6,0.5,True,False,Sat,False,True,True,True,False,3,CRITICAL
+2026-02-28,12,83,7.06,9,10,7,92.8,2,0.7777777777777778,True,False,Sat,False,True,False,True,False,2,HIGH
+2026-02-28,15,55,7.95,7,4,6,99.4,1,0.8571428571428571,True,False,Sat,False,True,False,True,False,2,HIGH
+2026-02-28,16,47,7.1,5,0,1,89.2,4,0.2,True,False,Sat,False,True,True,True,False,3,CRITICAL
+2026-02-28,17,46,8.0,6,4,1,87.2,5,0.1666666666666667,True,False,Sat,False,True,True,True,False,3,CRITICAL
+2026-02-28,20,52,7.76,6,3,5,88.7,1,0.8333333333333334,True,False,Sat,False,True,False,True,False,2,HIGH
+2026-02-28,23,67,8.08,9,2,2,78.0,7,0.2222222222222222,True,True,Sat,True,True,True,True,False,4,CRITICAL
